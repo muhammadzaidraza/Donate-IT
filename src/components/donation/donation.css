@@ -1,0 +1,46 @@
+.blackcolor {
+  color: black;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 5px;
+  width: 100%;
+}
+
+th {
+  background-color: rgb(242, 242, 242);
+  border: 1px solid lightgray;
+  border-collapse: collapse;
+  padding: 15px;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  border-right: none;
+  border-left: none;
+}
+
+tr {
+  border: 1px solid lightgrey;
+  color: black;
+}
+
+td {
+  border-collapse: collapse;
+  padding: 5px;
+  border-right: none;
+  border-left: none;
+  text-align: center;
+}
+input{
+  border: grey;
+}
+.Viewdata{
+  text-align: left;
+  padding: 30px;
+}
+
+.names{
+  font-weight: bold;
+  font-size: 18px;
+}
